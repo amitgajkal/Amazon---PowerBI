@@ -1,5 +1,5 @@
 # Amazon---PowerBI
-Learnings from the project
+Key highlights:
 
 1. Leveraged the latest functionalities such as card visuals and slicers to enhance data visualization and interactivity within Power BI dashboards.
    
