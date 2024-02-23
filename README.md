@@ -10,3 +10,5 @@ Learnings from the project
 4. Leveraged dynamic data labels and buttons in Power BI for enhanced interactivity and dynamic data exploration, empowering informed decision-making.
   
 5. Utilized tooltips to provide supplementary product information, enriching user experience and insights in Power BI reports.
+
+<img align="center" width="700" src="https://github.com/amitgajkal/Amazon-PowerBI/blob/main/Resouseces/Amzn.gif" />
