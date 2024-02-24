@@ -11,4 +11,4 @@ Key highlights:
   
 5. Utilized tooltips to provide supplementary product information, enriching user experience and insights in Power BI reports.
 
-<img align="center" width="700" src="https://github.com/amitgajkal/Amazon-PowerBI/blob/main/Resouseces/Amzn.gif" />
+<img align="center" width="700" src="https://github.com/amitgajkal/PowerBI-Amazon/blob/main/Resources/Final.gif" />
